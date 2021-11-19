@@ -1,4 +1,10 @@
-### Hi there 👋
+<img src="https://github.com/joao-almgren/joao-almgren/blob/main/gandalf.jpg?raw=true" width=200 align=left>
+
+### Hi there 👋 I’m @joao-almgren
+
+👀 I’m interested in 3D graphics
+
+🌱 I’m currently learning Github Actions
 
 <!--
 **joao-almgren/joao-almgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
