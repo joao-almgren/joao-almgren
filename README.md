@@ -1,22 +1,7 @@
-<img src="https://github.com/joao-almgren/joao-almgren/blob/main/gandalf.jpg?raw=true" width=200 align=left>
+<img src="https://github.com/joao-almgren/joao-almgren/blob/main/gandalf.jpg?raw=true" width=200 align=right>
 
-### Hi there 👋 I’m @joao-almgren
+### Hi there, I’m @joao-almgren
 
-👀 I’m interested in 3D graphics
+I've lost the code but here's an oldskool demo I made that you can watch on YouTube:  
 
-🌱 I’m currently learning Github Actions
-
-<!--
-**joao-almgren/joao-almgren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![YouTube](https://img.youtube.com/vi/M0JTFGSPCQo/0.jpg)](https://www.youtube.com/watch?v=M0JTFGSPCQo)
