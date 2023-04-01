@@ -3,4 +3,4 @@
 I got into programming to learn computer graphics and make video games.
 Here's a [YouTube playlist](https://www.youtube.com/playlist?list=PLyDdqLYg5_w9uoBY1mceMZiVuBg50b_Tb) with some graphics demos I made or collaborated on with friends.
 
-Always Allman style and tabs, regardless of language. Don't @ me.
+Always [Allman style](https://en.wikipedia.org/wiki/Indentation_style#Allman_style) and tabs, regardless of language. Don't @ me.
